@@ -6,6 +6,3 @@
     path = dataset/raw-data/ConceptARC
     url = https://github.com/sapientinc/ConceptARC.git
 
-[submodule "dataset/raw-data/ARC-AGI"]
-    path = dataset/raw-data/ARC-AGI
-    url = https://github.com/sapientinc/ARC-AGI.git
